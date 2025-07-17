@@ -7,3 +7,7 @@ lightgbm
 imbalanced-learn 
 joblib 
 matplotlib
+lime
+openai
+requests
+PyMuPDF
